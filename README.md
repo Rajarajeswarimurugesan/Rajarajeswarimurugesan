@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rajarajeswarimurugesan
+- 👀 I’m interested in coding for new inoovative projects and also curious in problem solving using technology.
+- 🌱 I’m currently learning B.E (Electrical and Electronics Engineering)
+- You can reach me via github.com/Rajarajeswarimurugesan
